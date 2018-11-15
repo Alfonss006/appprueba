@@ -1,0 +1,63 @@
+<resources>
+    <string name="op1">Iniciar Sesión Remota</string>
+    <string name="op2">Base de datos mysql</string>
+    <string name="Menu2">Listar</string>
+    <string name="Menu1">Agregar</string>
+    <string name="app_name">Facilito</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mis Aplicaciones</string>
+    <string name="nav_header_subtitle">creado por Djoser</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+    <string name="txt1">Calculadora</string>
+    <string name="btn1">Listo</string>
+    <string name="btn2">Cerrar</string>
+    <string name="listarR">Listar Remoto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Ingresar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Este E-mail no es correcto</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <!---Registro -->
+    <string name="registro">Registrarse</string>
+    <string name="Nombre">Ingrese su nombre</string>
+    <string name="correo">Ingrese su correo </string>
+    <string name="pass">Ingrese su Contraseña</string>
+    <!---calculadora -->
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="bac">AC</string>
+    <string name="bmas">+</string>
+    <string name="bmenos">-</string>
+    <string name="bpor">*</string>
+    <string name="bdiv">/</string>
+    <string name="bigual">=</string>
+    <string name="bpunto">.</string>
+    <string name="title_activity_login__d">Entrar</string>
+    <!-- esto es para el autenticador de cuentas -->
+    <string name="sycn_account_type">com.example.dhoser.rapido</string>
+    <string name="camara">Tomar una foto</string>
+
+</resources>

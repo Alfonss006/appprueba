@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".camara.camara">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/vistaimg"
+        android:layout_width="match_parent"
+        android:layout_height="294dp"
+        android:src="@drawable/ic_dragon" />
+
+    <TextView
+        android:id="@+id/txtubicacion"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btncam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/camara" />
+
+    <TextView
+        android:id="@+id/txtlat"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:text="TextView" />
+</LinearLayout>
